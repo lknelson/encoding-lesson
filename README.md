@@ -1,4 +1,4 @@
-# Encoding and Decoding when working with Text
+# Encoding and decoding when working with text
 ## Written by Leon Liang, with contributions from Laura K. Nelson
 
 There is a lot written on encoding and decoding text, but I couldn't find anything that I found suitable for teaching these issues to non-computer science majors. 
