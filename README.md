@@ -8,3 +8,5 @@ This repository contains a modified version of a lecture given in my course "Tex
 This repository can be used as a lesson to teach non-computer scientsits about encoding and decoding text. It contains two Jupyter notebooks, one with the exercises left blank, and one with the exercise solutions. It also contains an image folder with a few images used in the notebooks, and a data folder containing three sample texts for use in the exercises.
 
 Please use and modify as it fits your needs!
+
+Leon Liang is a recent Cal grad majored in engineering math and stats with an emphasis in computer science. He has a strong interest in data science and machine learning. During his years at Cal, he's participated in undergraduate researches involving classification of supernova and computer vision. He also got involved with the Berkeley Institute for Data Science and helped with the development of the data science connector courses.
