@@ -9,4 +9,4 @@ This repository can be used as a lesson to teach non-computer scientsits about e
 
 Please use and modify as it fits your needs!
 
-Leon Liang is a recent Cal grad majored in engineering math and stats with an emphasis in computer science. He has a strong interest in data science and machine learning. During his years at Cal, he's participated in undergraduate researches involving classification of supernova and computer vision. He also got involved with the Berkeley Institute for Data Science and helped with the development of the data science connector courses.
+Leon Liang is a recent graduate from the University of California, Berkeley. He majored in engineering, math, and stats with an emphasis in computer science. He has a strong interest in data science and machine learning. During his years at Cal, he participated in undergraduate research involving classification of supernovas and computer vision. He also got involved with the Berkeley Institute for Data Science and helped with the development of the data science connector courses.
